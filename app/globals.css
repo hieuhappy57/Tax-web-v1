@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@theme {
+  --font-be-vietnam: var(--font-be-vietnam);
+  --font-inter: var(--font-inter);
+
+  --color-navy: #002147;
+  --color-navy-light: #003366;
+  --color-gold: #D4AF37;
+  --color-slate-950: #020617;
+}
+
+@utility perspective-1000 {
+  perspective: 1000px;
+}
+
+@utility transform-style-3d {
+  transform-style: preserve-3d;
+}
+
+@utility backface-hidden {
+  backface-visibility: hidden;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #000a1e;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+@layer base {
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-be-vietnam);
+  }
+}

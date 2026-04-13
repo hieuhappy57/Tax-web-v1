@@ -1,0 +1,55 @@
+{
+  "hero": {
+    "headline": {
+      "vi": "Chuyên gia Thuế & Kế toán cho Doanh nghiệp SME",
+      "en": "Tax & Accounting Experts for SMEs"
+    },
+    "subheadline": {
+      "vi": "Chúng tôi không chỉ làm kế toán, chúng tôi bảo vệ doanh nghiệp bạn trước rủi ro thuế.",
+      "en": "We don't just do accounting; we protect your business from tax risks."
+    }
+  },
+  "stats": [
+    { "label": { "vi": "Lĩnh vực", "en": "Industries" }, "value": 25, "suffix": "+" },
+    { "label": { "vi": "Dự án", "en": "Projects" }, "value": 10000, "suffix": "+" },
+    { "label": { "vi": "Khách hàng", "en": "Clients" }, "value": 1000, "suffix": "+" },
+    { "label": { "vi": "Năm kinh nghiệm", "en": "Years Experience" }, "value": 15, "suffix": "+" }
+  ],
+  "services": [
+    {
+      "title": { "vi": "Kế toán thuế trọn gói", "en": "Full Tax Accounting" },
+      "desc": { "vi": "Quản lý toàn diện hồ sơ thuế, đảm bảo tính tuân thủ và tối ưu chi phí hàng tháng.", "en": "Comprehensive management of tax records, ensuring compliance and monthly cost optimization." }
+    },
+    {
+      "title": { "vi": "Quyết toán thuế năm", "en": "Annual Tax Settlement" },
+      "desc": { "vi": "Thực hiện quyết toán thuế TNDN, TNCN với độ chính xác tuyệt đối và giải trình chuyên nghiệp.", "en": "Perform CIT and PIT settlements with absolute accuracy and professional explanation." }
+    },
+    {
+      "title": { "vi": "Hoàn thuế doanh nghiệp", "en": "Corporate Tax Refund" },
+      "desc": { "vi": "Tư vấn và thực hiện thủ tục hoàn thuế GTGT, thuế xuất nhập khẩu nhanh chóng, đúng luật.", "en": "Consult and perform VAT and import-export tax refund procedures quickly and legally." }
+    }
+  ],
+  "knowledge": [
+    {
+      "id": "1",
+      "title": { "vi": "5 Lưu ý quan trọng khi quyết toán thuế 2024", "en": "5 Important Notes for 2024 Tax Settlement" },
+      "excerpt": { "vi": "Những thay đổi mới nhất về chính sách thuế mà chủ doanh nghiệp SME cần nắm vững.", "en": "The latest changes in tax policy that SME owners need to master." },
+      "date": "2024-03-15",
+      "image": "https://picsum.photos/seed/tax1/600/400"
+    },
+    {
+      "id": "2",
+      "title": { "vi": "Cách tối ưu chi phí thuế hợp lý cho doanh nghiệp mới", "en": "How to Optimize Tax Costs for New Businesses" },
+      "excerpt": { "vi": "Hướng dẫn chi tiết cách phân loại chi phí và tận dụng các ưu đãi thuế hiện hành.", "en": "Detailed guide on classifying costs and taking advantage of current tax incentives." },
+      "date": "2024-03-10",
+      "image": "https://picsum.photos/seed/tax2/600/400"
+    },
+    {
+      "id": "3",
+      "title": { "vi": "Rủi ro khi tự làm kế toán thuế mà không có chuyên gia", "en": "Risks of Doing Tax Accounting Without Experts" },
+      "excerpt": { "vi": "Phân tích các sai sót thường gặp và hậu quả pháp lý nghiêm trọng đối với doanh nghiệp.", "en": "Analysis of common errors and serious legal consequences for businesses." },
+      "date": "2024-03-05",
+      "image": "https://picsum.photos/seed/tax3/600/400"
+    }
+  ]
+}
